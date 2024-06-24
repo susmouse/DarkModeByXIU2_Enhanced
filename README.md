@@ -15,3 +15,10 @@
 <img src="./assets/image-20240625004404590.png" alt="image-20240625004404590" style="zoom:50%;" />
 
 <img src="./assets/image-20240625004511969.png" alt="image-20240625004511969" style="zoom:50%;" />
+
+
+
+## 感谢
+
+`kimi`、`ChatGPT`以及`Gemini`...
+
