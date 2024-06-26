@@ -14,11 +14,12 @@
 
 <img src="./assets/image-20240625004404590.png" alt="image-20240625004404590" style="zoom:50%;" />
 
-<img src="./assets/image-20240625004511969.png" alt="image-20240625004511969" style="zoom:50%;" />
+![image-20240626114338810](./assets/image-20240626114338810.png)
 
 
 
-## 感谢
+## 更新日志
 
-`kimi`、`ChatGPT`以及`Gemini`...
+- v1.0 - 添加了调整按钮尺寸的功能
+- v1.1 - 优化了按钮显示的比例
 
